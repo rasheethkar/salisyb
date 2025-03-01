@@ -1,4 +1,4 @@
-# Salis Yusuf B. | Digital Craftsman 🛠️
+# Salisu Abubakar | Digital Craftsman 🛠️
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;YouTuber+%26+Content+Creator;Open+Source+Enthusiast;Tech+Speaker;Lifelong+Learner" alt="Typing SVG" /> </div>
 
