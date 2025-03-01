@@ -10,7 +10,7 @@ Crafting digital experiences by day, building communities by night. I'm a full-s
 const salis = {
   code: ["JavaScript", "TypeScript", "Python", "Java", "HTML/CSS"],
   tools: ["React", "Node.js", "Express", "MongoDB", "AWS", "Docker"],
-  design: ["Photoshop", "Illustrator", "Figma", "UI/UX"],
+  design: ["Photoshop", "Illustrator", "Figma", "Canva", "UI/UX"],
   communities: ["Tech Speaker", "YouTube Creator", "Open Source Contributor"],
   challenge: "Currently diving deep into AI and machine learning"
 };
