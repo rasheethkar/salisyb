@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Who Am I?
 
-Crafting digital experiences by day, building communities by night. I'm a full-stack developer passionate about creating software that makes a difference, sharing knowledge, and bringing people together through technology.
+Crafting digital experiences by day, building communities by night. I'm a full-stack developer passionate about creating software that makes a difference, sharing knowledge and bringing people together through technology.
 
 ```javascript
 const salis = {
